@@ -1,0 +1,4 @@
+requests
+schedule
+google-generativeai
+python-dotenv
